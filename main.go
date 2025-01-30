@@ -1,4 +1,4 @@
-package go_timewarp
+package timewarp
 
 import (
 	"encoding/json"
